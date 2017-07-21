@@ -1,0 +1,677 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Persian Gravity Forms v2.0.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-10-31 12:38:36+0000\n"
+"Last-Translator: hannanstd <hannanstd@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Farsi\n"
+"X-Poedit-Country: IRAN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: includes/class-iran-cities.php:30
+#@ GF_FA
+msgid "Azarbaijan - East"
+msgstr "آذربایجان شرقی"
+
+#: includes/class-iran-cities.php:31
+#@ GF_FA
+msgid "Azarbaijan - West"
+msgstr "آذربایجان غربی"
+
+#: includes/class-iran-cities.php:32
+#@ GF_FA
+msgid "Ardabil"
+msgstr "اردبیل"
+
+#: includes/class-iran-cities.php:33
+#@ GF_FA
+msgid "Isfahan"
+msgstr "اصفهان"
+
+#: includes/class-iran-cities.php:34
+#@ GF_FA
+msgid "Alborz"
+msgstr "البرز"
+
+#: includes/class-iran-cities.php:35
+#@ GF_FA
+msgid "Ilam"
+msgstr "ایلام"
+
+#: includes/class-iran-cities.php:36
+#@ GF_FA
+msgid "Bushehr"
+msgstr "بوشهر"
+
+#: includes/class-iran-cities.php:37
+#@ GF_FA
+msgid "Tehran"
+msgstr "تهران"
+
+#: includes/class-iran-cities.php:38
+#@ GF_FA
+msgid "Chahar Mahaal and Bakhtiari"
+msgstr "چهارمحال و بختیاری"
+
+#: includes/class-iran-cities.php:39
+#@ GF_FA
+msgid "Khorasan - South"
+msgstr "خراسان جنوبی"
+
+#: includes/class-iran-cities.php:40
+#@ GF_FA
+msgid "Khorasan - Razavi"
+msgstr "خراسان رضوی"
+
+#: includes/class-iran-cities.php:41
+#@ GF_FA
+msgid "Khorasan - North"
+msgstr "خراسان شمالی"
+
+#: includes/class-iran-cities.php:42
+#@ GF_FA
+msgid "Khuzestan"
+msgstr "خوزستان"
+
+#: includes/class-iran-cities.php:43
+#@ GF_FA
+msgid "Zanjan"
+msgstr "زنجان"
+
+#: includes/class-iran-cities.php:44
+#@ GF_FA
+msgid "Semnan"
+msgstr "سمنان"
+
+#: includes/class-iran-cities.php:45
+#@ GF_FA
+msgid "Sistan and Baluchistan"
+msgstr "سیستان و بلوچستان"
+
+#: includes/class-iran-cities.php:46
+#@ GF_FA
+msgid "Fars"
+msgstr "فارس"
+
+#: includes/class-iran-cities.php:47
+#@ GF_FA
+msgid "Qazvin"
+msgstr "قزوین"
+
+#: includes/class-iran-cities.php:48
+#@ GF_FA
+msgid "Qom"
+msgstr "قم"
+
+#: includes/class-iran-cities.php:49
+#@ GF_FA
+msgid "Kurdistan"
+msgstr "کردستان"
+
+#: includes/class-iran-cities.php:50
+#@ GF_FA
+msgid "Kerman"
+msgstr "کرمان"
+
+#: includes/class-iran-cities.php:51
+#@ GF_FA
+msgid "Kermanshah"
+msgstr "کرمانشاه"
+
+#: includes/class-iran-cities.php:52
+#@ GF_FA
+msgid "Kohgiluyeh and Boyer-Ahmad"
+msgstr "کهگیلویه و بویراحمد"
+
+#: includes/class-iran-cities.php:53
+#@ GF_FA
+msgid "Golestan"
+msgstr "گلستان"
+
+#: includes/class-iran-cities.php:54
+#@ GF_FA
+msgid "Guilan"
+msgstr "گیلان"
+
+#: includes/class-iran-cities.php:55
+#@ GF_FA
+msgid "Lorestan"
+msgstr "لرستان"
+
+#: includes/class-iran-cities.php:56
+#@ GF_FA
+msgid "Mazandaran"
+msgstr "مازندران"
+
+#: includes/class-iran-cities.php:57
+#@ GF_FA
+msgid "Markazi"
+msgstr "مرکزی"
+
+#: includes/class-iran-cities.php:58
+#@ GF_FA
+msgid "Hormozgān"
+msgstr "هرمزگان"
+
+#: includes/class-iran-cities.php:59
+#@ GF_FA
+msgid "Hamadan"
+msgstr "همدان"
+
+#: includes/class-iran-cities.php:60
+#@ GF_FA
+msgid "Yazd"
+msgstr "یزد"
+
+#: includes/class-iran-cities.php:69
+#@ GF_FA
+msgid "Postal Code"
+msgstr "کد پستی"
+
+#: includes/class-iran-cities.php:70
+#@ GF_FA
+msgid "Province"
+msgstr "استان"
+
+#: includes/class-iran-cities.php:78
+#@ GF_FA
+msgid "Provinces of Iran"
+msgstr "استان های ایران"
+
+#: includes/class-iran-cities.php:101
+#@ GF_FA
+msgid "Activate Iran Cities"
+msgstr "فعالسازی شهرهای ایران"
+
+#: includes/class-jalali-date.php:41
+#@ GF_FA
+msgid "Activate Jalali date"
+msgstr "فعالسازی تاریخ شمسی"
+
+#: includes/class-jalali-date.php:253
+#, php-format
+#@ gravityforms
+msgid "Please enter a valid date in the format (%s)."
+msgstr ""
+
+#: includes/class-jalali-date.php:253
+#@ gravityforms
+msgid "Please enter a valid date."
+msgstr ""
+
+#: includes/class-live-preview.php:30
+#: includes/class-live-preview.php:46
+#@ GF_FA
+msgid "Form Preview"
+msgstr "پیش نمایش فرم"
+
+#: includes/class-live-preview.php:31
+#@ GF_FA
+msgid "A post type created for previewing Gravity Forms forms on the frontend."
+msgstr "یک پست تایپ موقتی و تستی جهت نمایش پیشنمایش فرم"
+
+#: includes/class-live-preview.php:90
+#: includes/class-live-preview.php:134
+#@ GF_FA
+msgid "Ajax option enabled"
+msgstr "حالت فعال آیجکس"
+
+#: includes/class-live-preview.php:96
+#: includes/class-live-preview.php:135
+#@ GF_FA
+msgid "Ajax option disabled"
+msgstr "حالت غیرفعال آیجکس"
+
+#: includes/class-live-preview.php:101
+#: includes/class-live-preview.php:103
+#: includes/class-live-preview.php:131
+#@ GF_FA
+msgid "Live Preview"
+msgstr "پیش نمایش زنده"
+
+#: includes/class-live-preview.php:159
+#@ GF_FA
+msgid "You need to log in to preview forms."
+msgstr "برای مشاهده فرم می بایست وارد سایت شوید!"
+
+#: includes/class-live-preview.php:162
+#@ GF_FA
+msgid "Oops! It doesn't look like you have the necessary permission to preview this form."
+msgstr "شما مجوز کافی جهت مشاهده پیشنمایش فرم را ندارید!"
+
+#: includes/class-melli-code.php:64
+#@ GF_FA
+msgid "<h6>نمایش لحظه ای شهر از روی کد ملی </h6>نمایش شهر و پیغام زیر فیلد کد ملی بعد از پر شدن فیلد . تذکر : در صورتی که این گزینه را فعال نمایید ،ممکن است فراخوانی شهر های ایران با توجه به زیاد بودن آنها سبب سنگین شدن صفحه گردد."
+msgstr ""
+
+#: includes/class-melli-code.php:65
+#@ GF_FA
+msgid "<h6>جدا سازی ارقام</h6>در صورتی که این گزینه را فعال نمایید ، پس از پر شدن فیلد کد ملی ، <strong>در صورتی که کد ملی وارد شده صحیح تشخصی داده شود</strong> ؛ کد ملی به صورت زیر در خواهد آمد و در غیر این صورت علی صحیح نبودن کد ملی زیر فیلد نمایش داده خواهد شد :<br>xxx-xxxxxx-x"
+msgstr ""
+
+#: includes/class-melli-code.php:68
+#@ GF_FA
+msgid "در صورتی که از تب وِیژگی تیک گزینه بدون تکرار را زده باشید ؛ بعد از پر شدن فرم و زدن دکمه ارسال پیغامی مبتنی بر تکراری بودن کد ملی نمایش داده خواهد شد . <br/>پیغام پیشفرض : این کد ملی توسط فرد دیگری ثبت شده است ."
+msgstr ""
+
+#: includes/class-melli-code.php:69
+#@ GF_FA
+msgid "در صورتی که کد ملی وارد شده مطابق با الگوریتم کشور نباشد پیغام خطا نمایش داده خواهد شد .<br/>پیغام پیشفرض : کد ملی وارد شده مطابق با استانداردهای کشور نمی باشد ."
+msgstr ""
+
+#: includes/class-melli-code.php:165
+#@ GF_FA
+msgid "نمایش شهر بر اساس کد ملی"
+msgstr ""
+
+#: includes/class-melli-code.php:173
+#@ GF_FA
+msgid "جدا سازی خودکار ارقام توسط خط فاصله"
+msgstr ""
+
+#: includes/class-melli-code.php:181
+#@ GF_FA
+msgid "پیغام زمانی که مقدار وارد شده شامل کاراکتر غیر عددی باشد"
+msgstr ""
+
+#: includes/class-melli-code.php:190
+#@ GF_FA
+msgid "پیغام زمانیکه تعداد ارقام وارد شده استاندارد نباشد"
+msgstr ""
+
+#: includes/class-melli-code.php:199
+#@ GF_FA
+msgid "پیغام زمانیکه کد ملی وارد شده قبلا ثبت شده باشد"
+msgstr ""
+
+#: includes/class-melli-code.php:208
+#@ GF_FA
+msgid "پیغام زمانیکه کد ملی وارد شده مطابق با الگوی ملی نباشد"
+msgstr ""
+
+#: includes/class-melli-code.php:294
+#: includes/class-melli-code.php:392
+#@ GF_FA
+msgid "کد ملی فقط باید به صورت عدد وارد شود ."
+msgstr ""
+
+#: includes/class-melli-code.php:297
+#@ GF_FA
+msgid "کد ملی می بایست 10 رقمی باشد ."
+msgstr ""
+
+#: includes/class-melli-code.php:300
+#: includes/class-melli-code.php:406
+#@ GF_FA
+msgid "کد ملی وارد شده مطابق با استانداردهای کشور نمی باشد ."
+msgstr ""
+
+#: includes/class-melli-code.php:421
+#@ GF_FA
+msgid "این کد ملی توسط فرد دیگری ثبت شده است ."
+msgstr ""
+
+#: includes/class-news-letter.php:24
+#@ GF_FA
+msgid "Newsletter"
+msgstr "خبرنامه"
+
+#: includes/class-pre-submission.php:128
+#@ gravityforms
+msgid "Click to view"
+msgstr ""
+
+#: includes/class-snippets.php:13
+#@ GF_FA
+msgid "Post Permalink"
+msgstr "لینک پست"
+
+#: includes/class-subtotal-calc.php:194
+#@ GF_FA
+msgid "Subtotal"
+msgstr "مجموع قیمت ها"
+
+#: includes/class-wpp-gravity-forms.php:89
+#@ wp-parsidate
+msgid "Enable"
+msgstr ""
+
+#: includes/class-wpp-gravity-forms.php:90
+#@ wp-parsidate
+msgid "Disable"
+msgstr ""
+
+#: includes/class-wpp-gravity-forms.php:96
+#@ GF_FA
+msgid "GravityForms"
+msgstr "گرویتی فرم"
+
+#: includes/class-wpp-gravity-forms.php:101
+#@ GF_FA
+msgid "Use Droid Sans font for GravityForms Admin"
+msgstr "استفاده از قلم \"دروید سنس\"برای مدیریت بجای فونت \"یکان\""
+
+#: includes/class-wpp-gravity-forms.php:105
+#@ GF_FA
+msgid "By GravityForms.ir"
+msgstr "اضافه شده توسط گرویتی فرم پارسی"
+
+#. translators: plugin header field 'Name'
+#: index.php:0
+#@ GF_FA
+msgid "Persian Gravity Forms"
+msgstr "گرویتی فرم پارسی"
+
+#. translators: plugin header field 'PluginURI'
+#: index.php:0
+#@ GF_FA
+msgid "https://wordpress.org/plugins/persian-gravity-forms/"
+msgstr "https://wordpress.org/plugins/persian-gravity-forms/"
+
+#. translators: plugin header field 'Author'
+#: index.php:0
+#@ GF_FA
+msgid "hannansoft"
+msgstr "حنان ابراهیمی ستوده"
+
+#. translators: plugin header field 'AuthorURI'
+#: index.php:0
+#@ GF_FA
+msgid "http://www.gravityforms.ir/"
+msgstr "http://www.gravityforms.ir/"
+
+#: persian-gravity.php:107
+#, php-format
+#@ GF_FA
+msgid "Persian Gravity Forms requires Gravityforms Core. Please install or activate it to continue. %sSee FAQ%s"
+msgstr "شما تنها بسته فارسی ساز را نصب کرده اید! برای استفاده از گرویتی فرم باید هسته اصلی نیز نصب باشد. %sاطلاعات بیشتر%s"
+
+#: persian-gravity.php:198
+#, php-format
+#@ GF_FA
+msgid "Thanks for choosing %sPersian Gravity Forms%s"
+msgstr "از اینکه %sگرویتی فرم پارسی%s را انتخاب کردید متشکریم!"
+
+#: persian-gravity.php:268
+#@ GF_FA
+msgid "Persian Gravity Forms Dashboard"
+msgstr "آخرین مطالب گرویتی فرم پارسی"
+
+#: persian-gravity.php:278
+#@ GF_FA
+msgid "<strong>RSS Error</strong>"
+msgstr "<strong>خطای RSS</strong>"
+
+#: persian-gravity.php:283
+#@ GF_FA
+msgid "Apparently, There are no updates to show!"
+msgstr "هیچ مطلبی وجود ندارد!"
+
+#: persian-gravity.php:548
+#@ GF_FA
+msgid "Private"
+msgstr "Private"
+
+#: persian-gravity.php:557
+#@ GF_FA
+msgid "Iranian Rial"
+msgstr "ریال"
+
+#: persian-gravity.php:558
+#: persian-gravity.php:559
+#@ GF_FA
+msgid "Rial"
+msgstr "ریال"
+
+#: persian-gravity.php:569
+#@ GF_FA
+msgid "Iranian Toman"
+msgstr "تومان"
+
+#: persian-gravity.php:570
+#: persian-gravity.php:571
+#@ GF_FA
+msgid "Toman"
+msgstr "تومان"
+
+#: persian-gravity.php:585
+#@ GF_FA
+msgid "Iranian Months"
+msgstr "ماه های ایران"
+
+#: persian-gravity.php:586
+#@ GF_FA
+msgid "Farvardin"
+msgstr "فروردین"
+
+#: persian-gravity.php:587
+#@ GF_FA
+msgid "Ordibehesht"
+msgstr "اردیبهشت"
+
+#: persian-gravity.php:588
+#@ GF_FA
+msgid "Khordad"
+msgstr "خرداد"
+
+#: persian-gravity.php:589
+#@ GF_FA
+msgid "Tir"
+msgstr "تیر"
+
+#: persian-gravity.php:590
+#@ GF_FA
+msgid "Mordad"
+msgstr "مرداد"
+
+#: persian-gravity.php:591
+#@ GF_FA
+msgid "Shahrivar"
+msgstr "شهریور"
+
+#: persian-gravity.php:592
+#@ GF_FA
+msgid "Mehr"
+msgstr "مهر"
+
+#: persian-gravity.php:593
+#@ GF_FA
+msgid "Aban"
+msgstr "آبان"
+
+#: persian-gravity.php:594
+#@ GF_FA
+msgid "Azar"
+msgstr "آذر"
+
+#: persian-gravity.php:595
+#@ GF_FA
+msgid "Dey"
+msgstr "دی"
+
+#: persian-gravity.php:596
+#@ GF_FA
+msgid "Bahman"
+msgstr "بهمن"
+
+#: persian-gravity.php:597
+#@ GF_FA
+msgid "Esfand"
+msgstr "اسفند"
+
+#: persian-gravity.php:607
+#@ GF_FA
+msgid "Simple Payment Gateway"
+msgstr "عنوان درگاه پرداخت ساده"
+
+#: persian-gravity.php:608
+#@ GF_FA
+msgid "Simple Payment Status"
+msgstr "وضعیت پرداخت ساده"
+
+#: persian-gravity.php:609
+#@ GF_FA
+msgid "Simple Transaction ID"
+msgstr "شماره تراکنش ساده"
+
+#: persian-gravity.php:610
+#@ GF_FA
+msgid "Styled Payment Gateway"
+msgstr "جدول نام درگاه پرداخت"
+
+#: persian-gravity.php:611
+#@ GF_FA
+msgid "Styled Payment Status"
+msgstr "جدول وضعیت پرداخت"
+
+#: persian-gravity.php:612
+#@ GF_FA
+msgid "Styled Transaction ID"
+msgstr "جدول شماره تراکنش"
+
+#: persian-gravity.php:613
+#@ GF_FA
+msgid "Styled Payment Pack"
+msgstr "پک پرداخت"
+
+#: persian-gravity.php:614
+#@ GF_FA
+msgid "Start of RTL Div"
+msgstr "ابتدای بلوک راستچین ساز"
+
+#: persian-gravity.php:615
+#@ GF_FA
+msgid "End of RTL Div"
+msgstr "انتهای بلوک راستچین ساز"
+
+#: persian-gravity.php:672
+#: persian-gravity.php:778
+#@ GF_FA
+msgid "Approved"
+msgstr "موفق"
+
+#: persian-gravity.php:675
+#: persian-gravity.php:781
+#@ GF_FA
+msgid "Failed"
+msgstr "ناموفق"
+
+#: persian-gravity.php:678
+#: persian-gravity.php:784
+#@ GF_FA
+msgid "Cancelled"
+msgstr "منصرف شده"
+
+#: persian-gravity.php:681
+#: persian-gravity.php:787
+#@ GF_FA
+msgid "Processing"
+msgstr "در انتظار"
+
+#: persian-gravity.php:688
+#@ GF_FA
+msgid "Payment Gateway"
+msgstr "عنوان درگاه پرداخت"
+
+#: persian-gravity.php:701
+#@ GF_FA
+msgid "Transaction ID"
+msgstr "شماره تراکنش"
+
+#: persian-gravity.php:714
+#@ GF_FA
+msgid "Payment Status"
+msgstr "وضعیت پرداخت"
+
+#: includes/class-iran-cities.php:23
+#@ GF_FA
+msgid "<h6>فعالسازی شهر های ایرانی</h6>برای فعالسازی انتخابگر لیست شهر های ایران می بایست نوع آدرس بر روی \"ایران\" باشد."
+msgstr ""
+
+#: includes/class-iran-cities.php:67
+#: includes/class-iran-cities.php:68
+#@ GF_FA
+msgid "Iran"
+msgstr "ایران"
+
+#: includes/class-jalali-date.php:22
+#@ GF_FA
+msgid "<h6>فعالسازی تاریخ شمسی</h6>در صورتی که از چند فیلد تاریخ استفاده میکنید ، فعالسازی تاریخ شمسی یکی از فیلدها کفایت میکند .<br/>تذکر : با توجه به آزمایشی بودن این قسمت ممکن است تداخل توابع سبب ناسازگاری با برخی قالب ها شود."
+msgstr ""
+
+#. translators: plugin header field 'Description'
+#: index.php:0
+#@ GF_FA
+msgid "Gravity Forms for Iranian, This plugin extends the Gravity Forms and its addons with Persian language"
+msgstr "بسته کامل فارسی ساز برای پیشرفته ترین فرمساز جهان!"
+
+#: includes/class-melli-code.php:33
+#: includes/class-melli-code.php:44
+#: includes/class-melli-code.php:51
+#@ GF_FA
+msgid "National ID"
+msgstr "کد ملی"
+
+#: includes/class-melli-code.php:66
+#@ GF_FA
+msgid "با توجه به اینکه کد ملی فقط باید به صورت عدد باشد ، در صورتی که کاراکتری غیر از عدد وارد شده باشد پیغام خطا نمایش داده خواهد شد .<br/>پیغام پیشفرض : کد ملی فقط باید به صورت عدد وارد شود ."
+msgstr ""
+
+#: includes/class-melli-code.php:67
+#@ GF_FA
+msgid "با توجه به اینکه کد ملی می بایست 10 رقمی باشد اگر تعداد رقم وارد شده ، اشتباه باشد پیغام خطا نمایش داده خواهد شد .<br>پیغام پیشفرض : کد ملی می بایست 10 رقمی باشد . تنها در صورتی مجاز به استفاده از کد های 8 یا 9 رقمی هستید که ارقام سمت چپ 0 باشند ."
+msgstr ""
+
+#: includes/class-melli-code.php:399
+#@ GF_FA
+msgid "کد ملی می بایست 10 رقمی باشد . تنها در صورتی مجاز به استفاده از کد های 8 یا 9 رقمی هستید که ارقام سمت چپ 0 باشند ."
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: index.php:0
+#@ GF_FA
+msgid "2.0.4"
+msgstr ""
+
+#: persian-gravity.php:115
+#@ GF_FA
+msgid "<strong>گرویتی فرم فارسی :</strong> توجه به موارد زیر الزامیست »"
+msgstr ""
+
+#: persian-gravity.php:116
+#@ GF_FA
+msgid "- به دلیل قرار گرفتن <a href=\"http://gravityforms.ir/11378/\" target=\"_blank\" style=\"text-decoration:none;\">آموزش تهیه آخرین نسخه گرویتی فرم در سایت</a> ، زین پس نسخه های زیر 1.9.15 پشتیبانی نخواهند شد."
+msgstr ""
+
+#: persian-gravity.php:117
+#@ GF_FA
+msgid "- کلیه درگاه های پرداخت گرویتی فرم به نسخه 2.2.1 بروز رسانی شدند و برای خریداران ارسال شدند. "
+msgstr ""
+
+#: persian-gravity.php:118
+#@ GF_FA
+msgid "- در صورتی که تاکنون آپدیت 2.2.1 درگاه های پرداخت به دست شما نرسیده است با ارسال مشخصات خرید خود به ایمیل hannanstd@gmail.com درخواست دریافت آپدیت را نمایید. ولی قبل آن اسپم ایمیل خود را نیز چک نمایید."
+msgstr ""
+
+#: persian-gravity.php:119
+#@ GF_FA
+msgid "- همچنین میتوانید نسخه 2.2.1 درگاه های رایگان را مجددا از سایت گرویتی فرم پارسی دانلود نمایید."
+msgstr ""
+
+#: persian-gravity.php:120
+#@ GF_FA
+msgid "- در این آپدیت گرویتی فرم پارسی درگاه های نسخه 1.0.0 از کار افتاده اند و در آپدیت بعدی گرویتی فرم پارسی درگاه های زیر نسخه 2.2.1 از کار خواهند افتاد. پس حتما در بروز رسانی درگاه های پرداخت خود جدی باشید."
+msgstr ""
+

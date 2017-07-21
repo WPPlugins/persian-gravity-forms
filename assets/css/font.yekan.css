@@ -1,0 +1,29 @@
+@font-face {
+	font-family: 'BYekan';
+	src: url('../fonts/BYekan.eot');
+	src: url('../fonts/BYekan.woff') format('woff'), url('../fonts/BYekan.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+*,body,html {
+	font-family:tahoma;
+}
+input,li,ul,select,textarea,#gf_merge_tag_list a{
+	font-family:tahoma !important;
+}
+#toplevel_page_gf_edit_forms a,#toplevel_page_gf_edit_forms .wp-menu-name,.newform_notice,.gatewayset p,.gatewayset td,h1,h2,h3,h4,h5,h6,h2 span,h3 span,label,#no-fields span,.group-header,#gf_form_toolbar a,.gform_tabs a,td a,td a strong,td strong a,th,.add-new-h2,.button,.stat b,.gresults-chart-wrapper *,div.gresults-results-filter-section-label,div.gresults-results-field-label,#gresults-results td,#gresults-results th,#gresults-results tr,h2 a{
+	font-family:BYekan !important;
+	font-weight:normal !important;
+}
+.field_hover div.gf-pagebreak-container div.gf-pagebreak-text-main span, .field_selected div.gf-pagebreak-container div.gf-pagebreak-text-main span ,.gf-pagebreak-text-after, .gf-pagebreak-text-before,div.gf-pagebreak-text-main span{
+	font-family:BYekan !important;
+}
+.field_type li input,.add-buttons-title{
+	font-family:BYekan !important;
+}
+.field_type li input,.add-buttons-title{
+	font-family:BYekan !important;
+}
+.gf_dashboard_view td i{
+	font-family:BYekan !important;
+}
